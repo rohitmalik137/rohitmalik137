@@ -1,6 +1,7 @@
 <h1 align="center">Hello World 👋🏼, I'm Rohit!</h1>
 <h3 align="center">A passionate Full Stack developer from Haryana, India</h3>
 
+<img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="280" height="auto" />
 
   - 🌱 I’m currently learning **.NET Framework**
 
@@ -11,9 +12,6 @@
   - 📫 How to reach me [My Email](bpsrohitmalik@gmail.com)
 
   - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1OE92ZoXw4U6L6wPdHujULkyVQsfXITFv/view)
-
-
-<img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="280" height="auto" />
 
 ***
 
