@@ -1,7 +1,7 @@
-<h1 align="center">Hello World 👋🏼, I'm Rohit!</h1>
+<h1 align="center">Hello World <img src="https://github.com/rohitmalik137/rohitmalik137/blob/master/assets/wave.gif" width="50px">🏼, I'm Rohit!</h1>
 <h3 align="center">A passionate Full Stack developer from Haryana, India</h3>
 
-<img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="280" height="auto" />
+<img align="right" src="https://github.com/rohitmalik137/rohitmalik137/blob/master/assets/coding.gif" width="280" height="auto" />
 
   - 🌱 I’m currently learning **.NET Framework**
 
@@ -9,13 +9,13 @@
 
   - 💬 Ask me about **MERN Stack (Happy to help to the best of my knowledge)**
 
-  - 📫 How to reach me [My Email](bpsrohitmalik@gmail.com)
+  - 📫 How to reach me [My Email](mailto:bpsrohitmalik@gmail.com)
 
   - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1OE92ZoXw4U6L6wPdHujULkyVQsfXITFv/view)
 
 ***
 
-<h3 align="left">👇🏻Connect with me:👇🏻</h3>
+## 👇🏻Connect with me:👇🏻
 <p align="left">
 <a href="https://twitter.com/rohitmalik137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rohitmalik137" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohitmalik137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohitmalik137" height="30" width="40" /></a>
@@ -32,9 +32,23 @@
 
 ***
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitmalik137&show_icons=true&locale=en" alt="rohitmalik137" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitmalik137&show_icons=true&locale=en&layout=compact" alt="rohitmalik137" />
-</p>
+-------
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmalik137&" alt="rohitmalik137" /></p>
+## &#x1f4c8; GitHub Stats
+
+![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitmalik137&theme=tokyonight&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmalik137&layout=compact&theme=tokyonight)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=rohitmalik137&layout=compact&theme=tokyonight)
+--------
+Visitor count: <br>
+<img src="https://profile-counter.glitch.me/rohitmalik137/count.svg" />
+
+------
+
+**Feel free to Copy stuff to make your profile README**
+
+**and if you like it please leave a :star: and a Follow.**
+
+**And feel free to reach out if you need any help regarding setting up profile or anything else.**
+
+-----
