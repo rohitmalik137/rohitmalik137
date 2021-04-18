@@ -1,15 +1,22 @@
 <h1 align="center">Hello World 👋, I'm Rohit!</h1>
 <h3 align="center">A passionate Full Stack developer from Haryana, India</h3>
 
-- 🌱 I’m currently learning **.NET Framework**
+<div style="display: flex; justify-content: space-between">
+<div>
+  - 🌱 I’m currently learning **.NET Framework**
 
-- 👨‍💻 All of my projects are available at [My portfolio site](http://rohitmalik.herokuapp.com/)
+  - 👨‍💻 All of my projects are available at [My portfolio site](http://rohitmalik.herokuapp.com/)
 
-- 💬 Ask me about **MERN Stack (Happy to help to the best of my knowledge)**
+  - 💬 Ask me about **MERN Stack (Happy to help to the best of my knowledge)**
 
-- 📫 How to reach me [My Email](bpsrohitmalik@gmail.com)
+  - 📫 How to reach me [My Email](bpsrohitmalik@gmail.com)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1OE92ZoXw4U6L6wPdHujULkyVQsfXITFv/view)
+  - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1OE92ZoXw4U6L6wPdHujULkyVQsfXITFv/view)
+ </div>
+ <div>
+  <img src="https://media0.giphy.com/media/13GIgrGdslD9oQ/200.gif" alt="Coding" />
+ </div>
+</div>
 
 <h3 align="left">👇Connect with me:👇</h3>
 <p align="left">
