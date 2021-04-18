@@ -1,7 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Rohit!</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitmalik137&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmalik137" /> </p>
+<h3 align="center">A passionate Full Stack developer from Haryana, India</h3>
 
 - 🌱 I’m currently learning **.NET Framework**
 
