@@ -11,7 +11,7 @@
 
   - 📫 How to reach me [My Email](mailto:bpsrohitmalik@gmail.com)
 
-  - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1OE92ZoXw4U6L6wPdHujULkyVQsfXITFv/view)
+  - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1DBpKu9CjTtKMf0h2H_5_uXbpAufC8WCO/view)
 
 ## 👇🏻Connect with me:👇🏻
 <p align="left">
