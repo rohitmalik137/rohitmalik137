@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github.com/rohitmalik137/rohitmalik137/blob/master/assets/coding.gif" width="280" height="auto" />
 
-  - 🌱 I’m currently learning **.NET Framework**
+  - 🌱 I’m a Senior Software Engineer at Zenoti, working in **.NET, React, SQL Server, Azure among many things**
 
   - 👨‍💻 All of my projects are available at [My portfolio site](http://rohitmalik.herokuapp.com/)
 
@@ -11,7 +11,7 @@
 
   - 📫 How to reach me [My Email](mailto:bpsrohitmalik@gmail.com)
 
-  - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1DBpKu9CjTtKMf0h2H_5_uXbpAufC8WCO/view)
+  - 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/1DBpKu9CjTtKMf0h2H_5_uXbpAufC8WCO/view](https://drive.google.com/file/d/1w7_EdpsSshe5yySdG67EBgBf9KSA5aTv/view?usp=drive_link))
 
 ## 👇🏻Connect with me:👇🏻
 <p align="left">
