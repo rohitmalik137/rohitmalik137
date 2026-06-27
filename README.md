@@ -1,52 +1,121 @@
-<h1 align="center">Hello World <img src="https://github.com/rohitmalik137/rohitmalik137/blob/master/assets/wave.gif" width="50px">, I'm Rohit!</h1>
-<h3 align="center">A passionate Full Stack developer from Haryana, India</h3>
+<div align="center">
 
-<img align="right" src="https://github.com/rohitmalik137/rohitmalik137/blob/master/assets/coding.gif" width="280" height="auto" />
+# Rohit Malik
 
-  - 🌱 I’m a Senior Software Engineer at Zenoti, working in **.NET, React, SQL Server, Azure among many things**
+### Senior Software Engineer · Full-Stack · Cloud · SaaS
 
-  - 👨‍💻 All of my projects are available at [My portfolio site](http://rohitmalik.herokuapp.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohitmalik137-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/rohitmalik137)
+[![GitHub](https://img.shields.io/badge/GitHub-rohitmalik137-181717?style=flat&logo=github)](https://github.com/rohitmalik137)
+[![Email](https://img.shields.io/badge/Email-bpsrohitmalik@gmail.com-D14836?style=flat&logo=gmail)](mailto:bpsrohitmalik@gmail.com)
+![Location](https://img.shields.io/badge/📍-Hyderabad%2C%20India-green?style=flat)
 
-  - 💬 Ask me about **MERN Stack (Happy to help to the best of my knowledge)**
+</div>
 
-  - 📫 How to reach me [My Email](mailto:bpsrohitmalik@gmail.com)
+---
 
-  - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1w7_EdpsSshe5yySdG67EBgBf9KSA5aTv/view?usp=drive_link)
+## About Me
 
-## 👇🏻Connect with me:👇🏻
-<p align="left">
-<a href="https://twitter.com/rohitmalik137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rohitmalik137" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohitmalik137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohitmalik137" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12234589" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12234589" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.rohitmalik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.rohitmalik" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rohitmalik137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rohitmalik137" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rohitmalik137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@rohitmalik137" height="30" width="40" /></a>
-</p>
+Senior Software Engineer with **5 years of experience** building and scaling SaaS products. I specialise in full-stack development — React, C#/.NET, and SQL Server — with hands-on cloud experience across **AWS and Azure**.
 
-***
+I've delivered high-impact features at scale: migrating monolith frontends to cloud-native CDN architectures, implementing fraud detection and rate limiting systems, and building integrations that serve **12,000+ global businesses**. I thrive in fast-moving, cross-functional teams and take ownership from design through production.
 
-<h3 align="left">🔧Tools and Technologies:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+Currently open to **Senior Software Engineer** opportunities in **Australia**.
 
--------
+---
 
-## &#x1f4c8; GitHub Stats
+## Tech Stack
 
-![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitmalik137&theme=tokyonight&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmalik137&layout=compact&theme=tokyonight)
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=rohitmalik137&layout=compact&theme=tokyonight)
---------
-Visitor count: <br>
-<img src="https://profile-counter.glitch.me/rohitmalik137/count.svg" />
+**Frontend**
+`React.js` `TypeScript` `JavaScript (ES6+)` `Redux` `Angular` `HTML5` `CSS3` `jQuery`
 
-------
+**Backend**
+`C#` `ASP.NET Core` `Node.js` `REST APIs` `Microservices` `SignalR`
 
-**Feel free to Copy stuff to make your profile README**
+**Databases**
+`SQL Server` `CosmosDB` `Redis`
 
-**and if you like it please leave a :star: and a Follow.**
+**Cloud & Infrastructure**
+`AWS` · CloudFront · API Gateway · Athena · Lambda
+`Azure` · App Service · Key Vault · Databricks · Pipelines
+`Cloudflare` · CDN · Turnstile
 
-**And feel free to reach out if you need any help regarding setting up profile or anything else.**
+**Observability & Tooling**
+`New Relic` `FullStory` `Git` `JIRA` `Postman` `Power BI` `Visual Studio` `VS Code`
 
------
+---
 
-## My Recent Projects are the following👇🏼
+## Experience
+
+### Senior Software Engineer — [Zenoti](https://www.zenoti.com)
+**Feb 2025 – Present · Hyderabad, India**
+
+> Zenoti is a global SaaS platform powering 12,000+ salons, spas, and wellness businesses across 50+ countries.
+
+- **Frontend CDN Migration** — Architected the decoupling of Zenoti's customer-facing Angular webstore from a .NET monolith; packaged build artefacts to CloudFront, routed through API Gateway, enabling independent frontend deployments
+- **Cloud-Agnostic Gateway** — Refactored AWS-specific Gateway Service to be provider-agnostic ahead of full AWS → Azure migration, abstracting routing and infrastructure dependencies
+- **Custom Domain Engine** — Designed a tenant domain routing system using CosmosDB key-value mappings and URI rewriting to enable white-label storefronts at scale
+- **Fraud Prevention** — Implemented multi-layer protection against carding attacks: IP-based Redis rate limiting, SQL threshold stored procedures, and automated anomaly alerting
+- **Cloudflare Turnstile** — Optimised Turnstile integration on payment/auth flows, reducing response time from 10s to near-instant, improving checkout conversion significantly
+- **Observability** — Led root-cause analysis using New Relic and AWS Athena log queries; onboarded FullStory for session replay on production edge cases
+- **Hackathon Winner** — Won a 60-hour internal hackathon building a team communication platform integrated into Zenoti with one-click onboarding
+
+---
+
+### Software Engineer — [Mirabel Technologies](https://www.mirabeltechnologies.com)
+**Aug 2023 – Feb 2025 · Hyderabad, India**
+
+> CRM and workflow software for the media publishing industry.
+
+- Built and maintained a CRM-based SaaS product using React, C#/.NET, and SQL Server across Prod/QA/Dev environments
+- **SQL Optimisation** — Rewrote critical stored procedures, reducing execution time by **96%** (15s → <1s), directly improving page load and reporting performance
+- **Legacy Modernisation** — Migrated ASPX pages and refactored legacy React codebases to modern patterns, reducing technical debt
+- **Automated Data Exports** — Built export pipelines to FTP, Google Drive, and Dropbox with scheduled backups and failover
+- Mentored junior developers on best practices, debugging, and code review
+
+---
+
+### Software Engineer — [MAQ Software](https://maqsoftware.com)
+**Nov 2021 – Aug 2023 · Hyderabad, India**
+
+> Microsoft Gold Partner delivering enterprise analytics and application solutions.
+
+- Developed enterprise web applications using React.js and .NET; collaborated with stakeholders to deliver customised solutions
+- Received **2 Spot Awards** and **4+ performance nominations** for exceptional delivery and cross-team contributions
+
+---
+
+## Featured Projects
+
+### Webstore Cloud Migration
+`Angular` `AWS CloudFront` `API Gateway` `CosmosDB` `Azure` — *2025*
+
+End-to-end architecture and delivery decoupling Zenoti's customer webstore from a .NET monolith into an independently deployable cloud-native frontend with CDN delivery, custom domain routing, and a cloud-agnostic gateway.
+
+---
+
+### Data Foundation
+`React (Ant Design)` `ASP.NET` `SignalR` `SQL Server` `Azure Pipelines` — *Mar – Aug 2023*
+
+Internal ticket management platform with role-based authentication, real-time SignalR notifications, Azure Pipeline monitoring, and automated Microsoft Teams alerts for operational events.
+
+---
+
+### Reporting Hub
+`ASP.NET` `JavaScript` `Power BI Embedded` `SQL Server` `Azure` — *Nov 2021 – Feb 2023*
+
+Embedded analytics portal for cross-team Power BI report access with Azure security group auth, deployed to Azure App Service via CI/CD, with secrets managed in Azure Key Vault.
+
+---
+
+## Education
+
+**Bachelor of Technology — Computer Science & Engineering (Honours)**
+Lovely Professional University, Punjab · 2017 – 2021
+
+---
+
+<div align="center">
+
+*Open to Senior Software Engineer roles in Australia/Europe · Available for remote or relocation*
+
+</div>
